@@ -69,6 +69,8 @@ int main(int argc, char* argv[])
 
   // POPULATING FULL NODE
   // Tests push_front() and push_back() on full node
+  cout << "Pushed -1 to the back" << endl;
+  cout << "Pushed 10 to the front" << endl;
   list.push_back("-1");
   list.push_front("10");
 
