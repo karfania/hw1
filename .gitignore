@@ -1,5 +1,8 @@
 /split_test.dSYM
+/ulliststr.dSYM
+/ulliststr.dSYM/Info.plist
 /.vscode
 /.DS_Store
 split
 split.o
+ulliststr
